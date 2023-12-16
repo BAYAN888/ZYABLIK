@@ -1,6 +1,12 @@
 button {
   padding: 10px 10px;
+  background-color: gold;
 }
 body {
   background-image: url(imag/scale_1200.jpg);
+}
+
+h2 {
+  background-color: whitesmoke;
+  color: black;
 }
